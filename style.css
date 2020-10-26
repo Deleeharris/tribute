@@ -1,0 +1,33 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: lightgray;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    padding: 20px;
+}
+
+#main {
+    text-align: center;
+}
+
+#headline {
+    grid-area: headline;
+}
+
+#tribute-info {
+    grid-area: tribute-info;
+}
+
+#list {
+    text-align: left;
+}
+
+#more {
+    grid-area: more;
+}
